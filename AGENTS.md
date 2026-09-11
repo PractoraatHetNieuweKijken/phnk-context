@@ -3,7 +3,7 @@ title: Instructies voor taalmodellen
 purpose: Hoe een taalmodel de bestanden in dit contextpakket gebruikt — leesvolgorde, terminologie, en wat je wel en niet mag beweren.
 use_when: Lees dit eerst, vóór de bestanden in context/.
 status: vastgesteld
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # Instructies voor taalmodellen
@@ -61,6 +61,8 @@ Zie `context/begrippen.md` voordat je een PHNK-term uitlegt of vertaalt. Verschi
 **Wees eerlijk over gaten.** Waar ambitie en praktijk uit elkaar lopen, benoem je dat. Een opgepoetste weergave is voor PHNK minder bruikbaar dan een accurate.
 
 **Geen wervingstaal en geen leeg jargon.** Vermijd "innovatief", "toonaangevend", "baanbrekend", "state of the art" en soortgelijke woorden. Ze zeggen niets en PHNK gebruikt ze niet.
+
+Eén uitzondering: waar zo'n woord deel is van hoe een partner zichzelf beschrijft, blijft het staan. Het XR Lab heet in `context/practoraat.md` daarom een innovatief leerbedrijf. Dat is de beschrijving van die partner, geen vrijbrief om het woord in eigen formuleringen te gebruiken.
 
 **Schrijf op mbo-niveau.** De doelgroep is het middelbaar beroepsonderwijs. Academisch jargon is hier geen kwaliteitsteken maar een drempel.
 

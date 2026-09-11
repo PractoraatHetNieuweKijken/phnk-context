@@ -3,7 +3,7 @@ title: Begrippen binnen Practoraat Het Nieuwe Kijken
 purpose: Termen waar PHNK een eigen of afwijkende betekenis aan geeft, met Engelse equivalenten en veelgemaakte verwarringen.
 use_when: Lees dit wanneer een term uit de andere bestanden onduidelijk is, of voordat je een PHNK-term in een tekst gebruikt. Nodig bij vertalen naar het Engels.
 status: vastgesteld
-updated: 2026-09-10
+updated: 2026-09-11
 source: de overige bestanden in dit contextpakket
 ---
 
@@ -99,7 +99,8 @@ Eigennaam, onderdeel van de naam van het practoraat. Niet letterlijk lezen en ni
 | CTL | Centre for Teaching and Learning — een platform binnen Mediacollege Amsterdam. Professionaliseringsvragen van docenten lopen via het CTL. |
 | CoECI | Centre of Expertise Creative Innovation |
 | OASIS | Samenwerkingsverband van technisch-creatieve vakscholen. De afkorting wordt binnen PHNK niet uitgeschreven gebruikt. Zie [oasis.nl](https://www.oasis.nl/). |
-| XR Lab | Leerbedrijf van MA en GLU in Hilversum waar PHNK gehuisvest is. Geen afkorting van iets binnen PHNK; XR staat voor extended reality. Zie [xr-lab.nl](https://www.xr-lab.nl/). |
+| N3ST | De broedplaats op het Mediapark in Hilversum waar PHNK is gevestigd. Geen afkorting. Schrijf N3ST, met een 3. Het is een plek, geen partner en geen organisatie waar PHNK onder valt; er is geen website om naar te verwijzen. |
+| XR Lab | Leerbedrijf van MA en GLU, gevestigd in N3ST. Partner van PHNK, met een andere doelgroep. Geen afkorting van iets binnen PHNK; XR staat voor extended reality. Zie [xr-lab.nl](https://www.xr-lab.nl/). |
 | OW | Onderwijsweek. "OW 5" betekent onderwijsweek 5. |
 
 ## Verwante bestanden

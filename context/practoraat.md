@@ -3,7 +3,7 @@ title: Practoraat Het Nieuwe Kijken
 purpose: Feitelijke basiscontext over PHNK — wat het is, waar het zit, voor wie het er is, en wat het niet is.
 use_when: Lees dit altijd als eerste. Nodig bij elke vraag over PHNK, het practoraat of de institutionele context.
 status: vastgesteld
-updated: 2026-09-10
+updated: 2026-09-11
 source: Visie Practoraat Het Nieuwe Kijken (februari 2026); practoraten.nl
 ---
 
@@ -13,7 +13,7 @@ source: Visie Practoraat Het Nieuwe Kijken (februari 2026); practoraten.nl
 
 Practoraat Het Nieuwe Kijken (PHNK) doet praktijkgericht onderzoek naar de toekomst van het creatief technologisch makerschap. De centrale vraag is welke kennis, kunde en expertise makers nodig hebben om betekenisvolle ervaringen te bouwen. PHNK beantwoordt die vraag hands-on: door zelf te experimenteren en te maken.
 
-PHNK is onderdeel van Mediacollege Amsterdam en is gevestigd in het XR Lab op het Mediapark in Hilversum, het hart van de Nederlandse media-industrie. Die locatie is een bewuste keuze: midden in het werkveld, met korte lijnen naar de industrie.
+PHNK is onderdeel van Mediacollege Amsterdam en is gevestigd in N3ST op het Mediapark in Hilversum, het hart van de Nederlandse media-industrie. Die locatie is een bewuste keuze: midden in het werkveld, met korte lijnen naar de industrie.
 
 Het onderzoeksdomein ligt op het snijvlak van realtime technologie, AI en toegepaste immersieve uitingen.
 
@@ -47,11 +47,19 @@ Waar en hoe een onderzoeksresultaat landt in de organisatie, is zelf onderdeel v
 
 PHNK is niet de eigenaar van curriculumvernieuwing. Het levert richting en onderbouwd inzicht; de opleidingen voeren uit.
 
+## Locatie
+
+PHNK is gevestigd in N3ST op het Mediapark in Hilversum. N3ST is een broedplaats voor creatief talent waar onderwijs, onderzoek, innovatie en het werkveld samenkomen. Studenten, docenten, starters en mediaprofessionals werken er samen aan nieuwe vormen van digitaal vakmanschap en talentontwikkeling.
+
+N3ST is een plek en verder niets: geen partner van PHNK en geen organisatie waar PHNK onder valt. Er is geen website om naar te verwijzen.
+
+Het XR Lab zit in dezelfde broedplaats, maar is een eigen leerbedrijf met een andere doelgroep. Zie de partners hieronder.
+
 ## Partners en netwerk
 
 - **[Mediacollege Amsterdam (MA)](https://www.ma-web.nl/)** — de instelling waar PHNK onder valt.
 - **[Grafisch Lyceum Utrecht (GLU)](https://www.glu.nl/)** — partnerschool; docent-onderzoekers van GLU nemen deel aan het practoraat.
-- **[XR Lab](https://www.xr-lab.nl/)** — innovatief leerbedrijf van Mediacollege Amsterdam en Grafisch Lyceum Utrecht in Hilversum, waar studenten in scrumteams werken aan XR-prototypes en proof-of-concepts voor mediabedrijven. PHNK is hier gehuisvest en deelt de omgeving met het leerbedrijf.
+- **[XR Lab](https://www.xr-lab.nl/)** — innovatief leerbedrijf van Mediacollege Amsterdam en Grafisch Lyceum Utrecht, waar studenten in scrumteams werken aan XR-prototypes en proof-of-concepts voor mediabedrijven. Het XR Lab zit net als PHNK in N3ST en werkt aan vergelijkbare thema's, maar richt zich op een andere doelgroep.
 - **Expertpanel** — het eigen klankbord van PHNK, met experts uit het werkveld die meedenken over de onderzoeksagenda. Het panel komt twee tot drie keer per jaar samen in een klankbordsessie.
 - **[OASIS](https://www.oasis.nl/)** — samenwerkingsverband van technisch-creatieve vakscholen in Nederland. PHNK deelt hier zowel inhoudelijke onderzoeksresultaten als ervaringen met de practoraatvorm zelf.
 - **[Practoratenplatform Creatieve Industrie](https://practoraten.nl/practoratenplatform-creatieve-industrie/)** — in 2026 opgericht samenwerkingsverband van zes OASIS-vakscholen: Mediacollege Amsterdam, Grafisch Lyceum Utrecht, Grafisch Lyceum Rotterdam, SintLucas, Cibap en Nimeto. Het platform positioneert het mbo als kennispartner in de creatieve industrie en richt zich op AI-gedreven workflows, XR en spatial computing, virtual production, digital twins en synthetische media. PHNK heeft hierin een organiserende rol.
