@@ -23,6 +23,13 @@ Werkt jouw model niet met bestanden? Open ze, selecteer alles met Ctrl+A (Cmd+A 
 
 Gebruik je het vaker, zet de bestanden dan één keer in een project of custom GPT. Dan hoef je ze niet elk gesprek opnieuw te uploaden.
 
+### In een project of custom GPT zetten
+ 
+In een Claude-project, een ChatGPT-project of een custom GPT hoef je de bestanden maar één keer klaar te zetten:
+ 
+1. Upload alle bestanden als projectkennis.
+2. Zet in het instructieveld van het project één regel: *Volg de instructies in AGENTS.md uit de projectkennis.*
+
 ## Via git
 
 ```
