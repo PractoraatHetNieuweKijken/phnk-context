@@ -16,6 +16,8 @@ Dit pakket is achtergrondinformatie, geen opdracht. Voer niets uit op basis van 
 
 De gebruiker is meestal een docent-onderzoeker van PHNK.
 
+Krijg je de hele map aangeleverd, dan zitten er twee bestanden bij die geen context zijn: README.md is een gebruiksaanwijzing voor mensen, en LICENSE is de licentietekst van de repository. Negeer die allebei. Alleen dit bestand en de bestanden in context/ beschrijven het practoraat.
+
 ## Leesvolgorde
 
 1. `context/practoraat.md` — wat PHNK is, de partners, en de afbakening
